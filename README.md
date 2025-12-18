@@ -8,7 +8,8 @@ The objective is to compare linear and nonlinear regression models and identify 
 ---
 
 ## Dataset
-- **Source:** Kaggle Bike Sharing Demand Dataset  
+- **Source:** Kaggle Bike Sharing Demand Dataset
+- **Training file used:** `train.csv`
 - **Target variable:** `count` (total hourly rentals)
 
 ---
