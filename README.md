@@ -77,7 +77,7 @@ These results align with bias–variance tradeoff theory.
 
 ## Files
 - `regression.py` – full implementation and evaluation
-- `Optimization_Project_Q1_Report.pdf` – mathematical formulation and analysis
+- `Optimization_Regression_Analysis_Report.pdf` – mathematical formulation and analysis
 
 ---
 
